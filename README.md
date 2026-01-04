@@ -16,7 +16,7 @@
   💼 **Roles**: Python Developer & Full Stack Developer
   
   🌟 **Community Leadership**:
-  - MARKETING TEAM @GDGoC - SRMCEM
+  - MARKETING TEAM @GDGoC-SRMCEM
   - PR TEAM @GeeksforGeeks_CampusBody_SRMCEM
   - @ALGOZENITH_SRMCEM
   
