@@ -84,7 +84,7 @@ A secure banking prototype featuring account management, transactions, and moder
 ### 🎵 Buzz Music Player
 A full-featured music player web application with intuitive UI and seamless audio playback capabilities.
 
-**Tech Stack:** Python, HTML5, CSS3, MySQL
+**Tech Stack:** Python, HTML5, CSS3, MySQL, Django
 
 **Features:**
 - 🎧 Music streaming
