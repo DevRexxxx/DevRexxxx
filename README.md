@@ -51,6 +51,59 @@
 
 ---
 
+<h2 align="center">🎯 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Personal Portfolio Website
+A sleek and modern portfolio showcasing my work, skills, and achievements with an elegant design.
+
+**Tech Stack:** HTML5, CSS3, JavaScript
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Bank-Prototype Website
+A secure banking prototype featuring account management, transactions, and modern financial services interface.
+
+**Tech Stack:** Python, HTML5, CSS3, MySQL
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/bank-prototype)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Buzz Music Player
+A full-featured music player web application with intuitive UI and seamless audio playback capabilities.
+
+**Tech Stack:** Python, HTML5, CSS3, MySQL
+
+**Features:**
+- 🎧 Music streaming
+- 📝 Playlist management
+- 📱 Responsive design
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imesd18.pythonanywhere.com/)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
