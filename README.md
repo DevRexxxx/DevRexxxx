@@ -64,7 +64,7 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/portfolio/)
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/Portfolio/)
 
 </td>
 <td width="50%" valign="top">
