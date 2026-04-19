@@ -11,14 +11,9 @@
   
   ### 💫 About Me
   
-  🎓 **Education**: SRMCEM'28 CSE | RLB'24 PCM | GWPS'17
+  🎓 **Education**: SRMCEM'28 CSE 
   
   💼 **Roles**: Python Developer & Full Stack Developer
-  
-  🌟 **Community Leadership**:
-  - MARKETING TEAM @GDGoC-SRMCEM
-  - PR TEAM @GeeksforGeeks_CampusBody_SRMCEM
-  - @ALGOZENITH_SRMCEM
   
   💡 I love turning ideas into **reality through clean, efficient code**
   
