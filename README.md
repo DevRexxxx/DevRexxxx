@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Eshaan+Singh+Deo+%F0%9F%91%8B;Python+Developer+%7C+Full+Stack+Developer;Building+Clean+%26+Efficient+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Eshaan+Singh+Deo+%F0%9F%91%8B;P[...]
 </div>
 
 <p align="center">
@@ -59,17 +59,17 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/Portfolio/)
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-2-mu-dun.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Bank-Prototype Website
-A secure banking prototype featuring account management, transactions, and modern financial services interface.
+### 🌱 EcoPulse
+An eco-focused project built to encourage sustainable practices and highlight environmental impact through a simple, engaging interface.
 
 **Tech Stack:** Python, HTML5, CSS3, MySQL
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devrexxxx.github.io/bank-prototype)
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/DevRexxxx/EcoPulse)
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ A full-featured music player web application with intuitive UI and seamless audi
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"[...]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
