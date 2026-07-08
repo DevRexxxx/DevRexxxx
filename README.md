@@ -86,7 +86,7 @@ A full-featured music player web application with intuitive UI and seamless audi
 - 📝 Playlist management
 - 📱 Responsive design
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imesd18.pythonanywhere.com/)
+[![View Project](https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://music-player-vert-psi.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
