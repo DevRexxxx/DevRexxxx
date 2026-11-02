@@ -201,21 +201,21 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0101&title_color=FF5D00&icon_color=FF5D00&text_color=FFFAFA&ring_color=FF5D00" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D0101&title_color=FF5D00&text_color=FFFAFA" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRexxxx&theme=tokyonight&hide_border=true&background=0D0101&ring=FF5D00&fire=FF5D00&currStreakLabel=FF5D00&sideLabels=FFFAFA&currStreakNum=FFFAFA&sideNums=FFFAFA&dates=888888" alt="GitHub Streak" width="600"/>
+  <img src="https://streak-stats.demolab.com/?user=DevRexxxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&theme=tokyo-night&hide_border=true&area=true&bg_color=0D0101&color=FF5D00&line=FF5D00&point=FFFAFA&area_color=FF5D00" alt="Contribution Graph" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
 </div>
 
 ---
@@ -223,7 +223,7 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRexxxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRexxxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
