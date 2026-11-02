@@ -100,7 +100,7 @@ An intelligent AI-powered fact-checking and truth-verification assistant. *Sach*
 
 <div>
   <a href="https://github.com/DevRexxxx/SachAi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -125,7 +125,7 @@ A sleek, futuristic AI chatbot interface powered by advanced language models. Ae
 
 <div>
   <a href="https://github.com/DevRexxxx/Aether_AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -161,7 +161,7 @@ A full-featured music player web application with an intuitive UI and seamless a
 
 <div>
   <a href="https://github.com/DevRexxxx/Music_Player" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://music-player-vert-psi.vercel.app/" target="_blank">
@@ -187,6 +187,10 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 - ⚡ Fast & optimized
 
 <div>
+  <a href="https://github.com/DevRexxxx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
   <a href="https://portfolio-2-mu-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
