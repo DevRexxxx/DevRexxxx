@@ -43,23 +43,27 @@ class EshaanSinghDeo:
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+**👨‍💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 AI / ML & Frameworks
+**🧠 AI / ML & Frameworks**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & Platforms
+**🛠️ Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,23 +76,25 @@ class EshaanSinghDeo:
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-### 🤖 AI-Powered Projects
-
-</div>
-
 <table>
+<tr>
+<td colspan="2" align="center">
+
+**🤖 AI-Powered Projects**
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 SachAI — AI Fact Checker
-An intelligent AI-powered fact-checking and truth-verification assistant. *Sach* means **truth** in Hindi — this tool is built to fight misinformation with the power of AI.
+**🔍 SachAI — AI Fact Checker**
+
+An intelligent AI-powered fact-checking and truth-verification assistant. *Sach* means **truth** in Hindi — built to fight misinformation with the power of AI.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -98,22 +104,19 @@ An intelligent AI-powered fact-checking and truth-verification assistant. *Sach*
 - 📊 Credibility scoring
 - 💡 Source suggestions
 
-<div>
-  <a href="https://github.com/DevRexxxx/SachAi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevRexxxx/SachAi)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌌 Aether AI — Intelligent Chatbot
-A sleek, futuristic AI chatbot interface powered by advanced language models. Aether brings the next generation of conversational AI to life with an elegant UI.
+**🌌 Aether AI — Intelligent Chatbot**
+
+A sleek, futuristic AI chatbot interface powered by advanced language models. Aether brings next-generation conversational AI to life with an elegant UI.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -123,27 +126,22 @@ A sleek, futuristic AI chatbot interface powered by advanced language models. Ae
 - 🎨 Modern futuristic UI
 - 📱 Responsive design
 
-<div>
-  <a href="https://github.com/DevRexxxx/Aether_AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevRexxxx/Aether_AI)
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" align="center">
 
-<div align="center">
+**🌐 Web Applications**
 
-### 🎵 Web Applications
-
-</div>
-
-<table>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Buzz Music Player
+**🎵 Buzz Music Player**
+
 A full-featured music player web application with an intuitive UI and seamless audio playback. Stream, manage playlists, and enjoy your music — all in one elegant app.
 
 **Tech Stack:**
@@ -159,21 +157,16 @@ A full-featured music player web application with an intuitive UI and seamless a
 - 🔍 Song search & discovery
 - 📱 Fully responsive design
 
-<div>
-  <a href="https://github.com/DevRexxxx/Music_Player" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://music-player-vert-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevRexxxx/Music_Player)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://music-player-vert-psi.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Personal Portfolio
-A sleek and modern portfolio showcasing my work, skills, and achievements with an elegant, responsive design.
+**💼 Personal Portfolio**
+
+A sleek and modern portfolio showcasing my work, skills, and achievements with an elegant, fully responsive design.
 
 **Tech Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -186,15 +179,9 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 - 🎯 Showcases all projects
 - ⚡ Fast & optimized
 
-<div>
-  <a href="https://github.com/DevRexxxx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-2-mu-dun.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevRexxxx)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5D00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-mu-dun.vercel.app/)
 
 </td>
 </tr>
@@ -222,7 +209,7 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 
 <div align="center">
 
-### ⭐ If you find my work helpful, consider starring my repositories!
+**⭐ If you find my work helpful, consider starring my repositories!**
 
 <sub>⚡ Built with passion, caffeine, and a lot of ☕ | © 2026 Eshaan Singh Deo</sub>
 
