@@ -198,36 +198,6 @@ A sleek and modern portfolio showcasing my work, skills, and achievements with a
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevRexxxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="900"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRexxxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
