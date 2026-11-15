@@ -74,6 +74,43 @@ class EshaanSinghDeo:
 
 ---
 
+## 📊 GitHub Statistics
+
+<!-- Streak Stats (demolab — reliable host) -->
+<div align="center">
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://streak-stats.demolab.com/?user=DevRexxxx&theme=dark&hide_border=true&background=0D0101&ring=FF5D00&fire=FF5D00&currStreakLabel=FF5D00&sideLabels=FF5D00" alt="GitHub Streak" width="600"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRexxxx&theme=github_dark" width="100%" alt="Profile Details"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevRexxxx&theme=github_dark" height="180" alt="Repos Per Language"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevRexxxx&theme=github_dark" height="180" alt="Most Commit Language"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRexxxx&theme=github_dark" height="180" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevRexxxx&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
+</div>
+
+
+---
+
 ## 🎯 Featured Projects
 
 <table>
