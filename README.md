@@ -76,32 +76,42 @@ class EshaanSinghDeo:
 
 ## 📊 GitHub Statistics
 
-<!-- Contribution Heatmap Graph — mimics the green contribution calendar from your profile -->
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&bg_color=0D0101&color=FF5D00&line=FF5D00&point=FFFAFA&area_color=FF5D00&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&theme=github-dark&bg_color=0D0101&color=FF5D00&line=FF5D00&point=FFFAFA&area_color=FF5D00&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Stats Card + Top Languages side by side -->
+<!-- Stats Card + Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0101&title_color=FF5D00&text_color=FFFAFA&icon_color=FF5D00&ring_color=FF5D00" alt="GitHub Stats" height="180"/>
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=FF5D00&icon_color=FF5D00&ring_color=FF5D00" alt="GitHub Stats" height="180"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&langs_count=8&hide_border=true&bg_color=0D0101&title_color=FF5D00&text_color=FFFAFA" alt="Top Languages" height="180"/>
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=FF5D00" alt="Top Languages" height="180"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
+<!-- Streak Stats (demolab — reliable host) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRexxxx&hide_border=true&background=0D0101&stroke=FF5D0040&ring=FF5D00&fire=FF5D00&currStreakNum=FFFAFA&sideNums=FFFAFA&currStreakLabel=FF5D00&sideLabels=FF5D00&dates=FFFAFA80" alt="GitHub Streak" width="600"/>
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://streak-stats.demolab.com/?user=DevRexxxx&theme=dark&hide_border=true&background=0D0101&ring=FF5D00&fire=FF5D00&currStreakLabel=FF5D00&sideLabels=FF5D00" alt="GitHub Streak" width="600"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Profile Summary Cards — replicates the Activity Overview radar chart + contribution stats -->
+<!-- Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRexxxx&theme=github_dark" width="100%" alt="Profile Details"/>
+  <a href="https://github.com/DevRexxxx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRexxxx&theme=github_dark" width="100%" alt="Profile Details"/>
+  </a>
 </div>
 
 <br/>
