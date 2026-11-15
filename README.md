@@ -76,7 +76,7 @@ class EshaanSinghDeo:
 
 ## 📊 GitHub Statistics
 
-<!-- Contribution Activity Graph -->
+<!-- Contribution Heatmap Graph — mimics the green contribution calendar from your profile -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&bg_color=0D0101&color=FF5D00&line=FF5D00&point=FFFAFA&area_color=FF5D00&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
@@ -92,18 +92,34 @@ class EshaanSinghDeo:
 
 <br/>
 
-<!-- Streak Stats using active demolab endpoint -->
+<!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevRexxxx&hide_border=true&background=0D0101&stroke=FF5D0040&ring=FF5D00&fire=FF5D00&currStreakNum=FFFAFA&sideNums=FFFAFA&currStreakLabel=FF5D00&sideLabels=FF5D00&dates=FFFAFA80" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRexxxx&hide_border=true&background=0D0101&stroke=FF5D0040&ring=FF5D00&fire=FF5D00&currStreakNum=FFFAFA&sideNums=FFFAFA&currStreakLabel=FF5D00&sideLabels=FF5D00&dates=FFFAFA80" alt="GitHub Streak" width="600"/>
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<!-- Profile Summary Cards — replicates the Activity Overview radar chart + contribution stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRexxxx&theme=github_dark" width="100%" alt="Profile Details"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRexxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevRexxxx&theme=github_dark" height="180" alt="Repos Per Language"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevRexxxx&theme=github_dark" height="180" alt="Most Commit Language"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevRexxxx&theme=github_dark" height="180" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevRexxxx&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
+</div>
+
 
 ---
 
