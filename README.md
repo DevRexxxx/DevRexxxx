@@ -74,6 +74,39 @@ class EshaanSinghDeo:
 
 ---
 
+## 📊 GitHub Statistics
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevRexxxx&bg_color=0D0101&color=FF5D00&line=FF5D00&point=FFFAFA&area_color=FF5D00&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Stats Card + Top Languages side by side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRexxxx&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0101&title_color=FF5D00&text_color=FFFAFA&icon_color=FF5D00&ring_color=FF5D00" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRexxxx&layout=compact&langs_count=8&hide_border=true&bg_color=0D0101&title_color=FF5D00&text_color=FFFAFA" alt="Top Languages" height="180"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats using active demolab endpoint -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DevRexxxx&hide_border=true&background=0D0101&stroke=FF5D0040&ring=FF5D00&fire=FF5D00&currStreakNum=FFFAFA&sideNums=FFFAFA&currStreakLabel=FF5D00&sideLabels=FF5D00&dates=FFFAFA80" alt="GitHub Streak" width="600"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRexxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
 <table>
